@@ -38,7 +38,7 @@ A **secure**, **decentralized**, and **trustless** payment application powered b
 # Setup and Installation
 ## Requirements 
 ● Windows 10 or higher (version 2004 or higher). Build 19041.xxx or
- higher.
+ higher. <br>
 ● 64-bit machine (System type x64 based PC)
 
 ## Steps
