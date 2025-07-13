@@ -111,18 +111,18 @@ dfx --version
 ### Create the Default Hello DApp
 1. Open upUbuntufrom the start menu and create a newfolder called
  ic-projects using the following command
-```
-mkdir ic-projects
-```
+   ```
+   mkdir ic-projects
+   ```
 2. Change directory into that folder using the command
    ```
    cd ic-projects
    ```
 3.  Inside this ic-projects folder, we’re going to create our first Internet
  Computer DApp using the following command
-```
-dfx new hello
-```
+   ```
+   dfx new hello
+   ```
 4. You can see this new project and folders by running the following command
    ```
     explorer.exe .
